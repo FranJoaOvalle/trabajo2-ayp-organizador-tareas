@@ -1,0 +1,15 @@
+1 Tarea
+2 Personal
+3 Trabajo
+4 Importante
+5 Urgente
+6 Casa
+7 Escuela
+8 Estudio
+9 Deporte
+10 Reunión
+11 Compras
+12 Salud
+13 Citas
+14 Familia
+15 Ocio

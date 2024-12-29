@@ -1,0 +1,10 @@
+3087654321|0|Tomar Agua|Recordatorio para beber un vaso de agua cada hora|100|1735089400|2|1735185800
+3087654322|0|Medicamento|Tomar la medicación diaria despues de cenar|200|1735089500|0|1735185900
+3087654323|0|Revisar Emails|Verificar nuevos correos importantes al mediodia|120|1735089600|1|1735186000
+3087654324|0|Estiramientos|Hacer una pausa para estirarse durante el trabajo|150|1735089700|4|1735186100
+3087654325|0|Descanso Visual|Apartar la vista de la pantalla por 5 minutos|50|1735089800|0|1735186200
+3087654326|0|Actualizar Agenda|Revisar y organizar tareas pendientes del dia|130|1735089900|7|1735186300
+3087654327|0|Preparar Cafe|Tomar un cafe para recargar energias por la tarde|90|1735090000|0|1735186400
+3087654328|0|Llamar al Doctor|Confirmar la cita medica programada para la semana|180|1735090100|3|1735186500
+3087654329|0|Revisar Presupuesto|Analizar gastos y ajustarse al plan financiero|140|1735090200|14|1735186600
+3087654330|0|Cargar Celular|Recordar cargar el celular antes de salir de casa|80|1735090300|0|1735186700

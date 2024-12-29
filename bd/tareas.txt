@@ -1,0 +1,11 @@
+4088655660|1|Estudiar Progra|Estudiar Programacion para el certamen|255|1735088304|1735174704|1735261104|2
+4088655661|1|Leer Libro|Leer 'El nombre del viento' para el club de lectura|100|1735088400|1735184800|1735271200|3
+4088655662|1|Ir al Gimnasio|Hacer ejercicio y completar rutina de fuerza|200|1735088500|1735184900|1735271300|0
+4088655663|1|Cocinar Cena|Preparar pollo al horno con vegetales|150|1735088600|1735185000|1735271400|1
+4088655664|1|Escribir Blog|Publicar un articulo sobre programacion en mi blog|180|1735088700|1735185100|1735271500|2
+4088655665|1|Hacer Compras|Comprar viveres para la semana|120|1735088800|1735185200|1735271600|0
+4088655666|1|Llamar a Familia|Hablar con mis padres por videollamada|130|1735088900|1735185300|1735271700|3
+4088655667|1|Estudiar Matematicas|Revisar Algebra para el examen de la proxima semana|255|1735089000|1735185400|1735271800|2
+4088655668|1|Organizar Oficina|Ordenar documentos y limpiar el escritorio|110|1735089100|1735185500|1735271900|0
+4088655669|1|Planificar Vacaciones|Reservar vuelos y alojamiento para el viaje|200|1735089200|1735185600|1735272000|1
+4088655670|1|Actualizar CV|Revisar y mejorar mi curriculum para nuevas oportunidades|150|1735089300|1735185700|1735272100|2
