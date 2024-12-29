@@ -446,7 +446,7 @@ void mostrar_usuario(void)
     #ifdef _WIN32
         usuario = getenv("USERNAME");
     #else
-        nombre_usuario = getenv("USER");
+        usuario = getenv("USER");
     #endif
 
     if (usuario) printf("Bienvenido, "$C_AZUL"%s"$RESET"!\n", usuario);
