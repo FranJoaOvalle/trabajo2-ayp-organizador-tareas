@@ -3,10 +3,10 @@
 #include "../headers/tarea.h"
 #include "../headers/inputs.h"
 #include "../headers/etiqueta.h"
+#include "../headers/recordatorio.h"
 
 #include <stdio.h>
 
-#include "recordatorio.h"
 
 Relacion crear_relacion_tarea(const Tarea bd_tareas[], const int cant_tareas,
                               const Etiqueta bd_etiquetas[], const int cant_etiquetas)

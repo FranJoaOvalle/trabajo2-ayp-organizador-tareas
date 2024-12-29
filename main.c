@@ -138,7 +138,7 @@ void mostrar_menu_tareas(void)
                 if (cant_tareas == 0) printf($C_AMARILLO"ADVERTENCIA: No existen tareas disponibles.\n"$RESET);
                 else {
                     mostrar_listado_tareas_acotado(bd_tareas, cant_tareas);
-                    const int index = input_entero_en_rango("\nSeleccione el número de tarea que desea actualizar: ",
+                    const int index = input_entero_en_rango("\nSeleccione el número de tarea que desea actualizar",
                         1, cant_tareas);
                     actualizar_tarea(&bd_tareas[index - 1]);
                 }
@@ -240,7 +240,7 @@ void mostrar_menu_recordatorios(void)
                 if (cant_recordatorios == 0) printf($C_AMARILLO"ADVERTENCIA: No existen recordatorios disponibles.\n"$RESET);
                 else {
                     mostrar_listado_recordatorios_acotado(bd_recordatorios, cant_recordatorios);
-                    const int index = input_entero_en_rango("\nSeleccione el número de recordatorio que desea actualizar: ",
+                    const int index = input_entero_en_rango("\nSeleccione el número de recordatorio que desea actualizar",
                         1, cant_recordatorios);
                     actualizar_recordatorio(&bd_recordatorios[index - 1]);
                 }

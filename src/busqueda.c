@@ -17,7 +17,7 @@ void buscar_tarea_nombre(const Tarea bd_tareas[], const int cant_tareas)
 {
     int i;
     char target[32];
-    input_string_alfanumerico("Ingrese el nombre que quiera buscar", target, sizeof(target), 0);
+    input_string_alfanumerico("Ingrese el nombre que desea buscar", target, sizeof(target), 0);
 
     str_to_lower(target);
 
