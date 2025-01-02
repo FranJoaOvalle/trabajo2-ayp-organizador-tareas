@@ -39,7 +39,7 @@ void mostrar_tarea(const Tarea* t)
     char f_fin[20];
 
     strftime(f_inicio, sizeof(f_inicio), "%d-%m-%Y %H:%M:%S (%a %b %d, %Y)", localtime(&ini));
-    strftime(f_fin, sizeof(f_fin), "%a %b %d, %Y", localtime(&fin));
+    strftime(f_fin, sizeof(f_fin), "%d-%m-%Y %H:%M:%S (%a %b %d, %Y)", localtime(&fin));
 
     mostrar_base(&t->base);
     printf("Fecha de inicio: %s\n", f_inicio);
